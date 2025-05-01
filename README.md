@@ -44,4 +44,13 @@
 <hr width="60%" >
 
 ### Connect with me
-<a href="https://www.linkedin.com/in/kevin-antonio-montano-aquino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kevin-antonio-montano-aquino/" target="_blank">
+<img src=https://img.shields.io/badge/LINKEDIN-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://kevinmontanoportfolio.vercel.app/" target="_blank">
+<img src=https://img.shields.io/badge/PORTFOLIO-%2300acee.svg?color=2962FF&style=for-the-badge&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
+</a>
+
+
+
+
