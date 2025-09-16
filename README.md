@@ -3,21 +3,25 @@
 </div>
 
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
-**I am a technical student in software development with more than 2 years of learning focused on building digital solutions.**
- 
-**I am currently looking for my first professional job while I conclude my degree this year.**
+**I am a technical student in software development with more than 3 years of learning focused on building digital solutions.**
 
-**I am passionate about continuing to learn and put my skills into practice to contribute to the success of real projects.**
+**I am currently finishing my degree this year and looking for my first professional job.**
 
-* **I am interested in Web development**
-- 🌱 I’m currently learning...
-  - Hexagonal Architecture
-  - TypeScript
-  - Express js
-- 👯 I’m looking forward to collaborate on open source projects.
-- 🤔 I’m currently open for: A job opportunity
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- ⚡ Codeing(💻), Traveling(🌍), do painting and skecthing(🖌️), listen to music(🎵).
+**I am passionate about learning and putting my skills into practice to contribute to the success of real projects.**
+
+### 🌱 I’m currently learning
+- Kotlin
+- Spring Boot
+
+### 👯 I’m looking forward to
+- Collaborating on open source projects.  
+- Connecting with professionals and growing my network.  
+
+### 🤔 I’m currently open for
+- Job opportunities in software development. 
+
+### ⚡ Fun facts
+- Love coding (💻), traveling (🌍), painting & sketching (🖌️), and listening to music (🎵).
   
 
 ### Technologies That I Know 👨🏻‍💻
@@ -25,7 +29,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,dotnet,html,css,tailwind,bootstrap,js,ts,php,cs,py,git,github,prisma,sqlite,mongodb,mysql,nodejs,express,vite,vscode,netlify,vercel,mint&perline=14" />
+    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,dotnet,html,css,tailwind,bootstrap,js,java,ts,php,cs,py,git,github,prisma,sqlite,mongodb,mysql,nodejs,express,vite,vscode,netlify,vercel,mint&perline=14" />
   </a>
 </p>
 
